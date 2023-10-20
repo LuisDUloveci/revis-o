@@ -1,0 +1,25 @@
+*{
+  background: black;
+}
+
+img {
+  max-width: 500px;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+}
+
+.titulo-noticia {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.noticia {
+  background-color: #494c4e;
+}
